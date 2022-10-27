@@ -174,7 +174,7 @@ const Upload = () => {
             </div>
           </div>
           <div className="flex flex-col gap-3 pb-10 py-4 font-medium ml-4 md:ml-10 basis-2/3">
-            <label className='mb-0 text-base'>Caption <span className="text-sm text-slate-300 lg:ml-80 md:ml-72 ml-48 ">0/150</span></label>
+            <label className='mb-0 text-base'>Caption <span className="text-sm text-slate-300 relative  sm:left-1/2 md:left-2/3 lg:left-3/4 ">0/150</span></label>
             <div className="flex">
               <input
                 type="text"
